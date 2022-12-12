@@ -29,3 +29,6 @@ print("y" in "xylophone")
 userprompt = 'i love to see'
 
 print(userprompt.islower())
+
+#LIST TRAINING
+#THIS IS AWESOME
